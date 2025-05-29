@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-#z0diw4qi(04x$6)t^l&8oi4(k2*2nfxxmylo4zpju0xs09qa4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gymlogix-3.onrender.com','localhost','127.0.0.1']
+
 
 
 # Application definition
